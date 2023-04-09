@@ -1,0 +1,121 @@
+.container-fluid{
+    position: fixed;
+    margin-top: 60px;
+    background-color: #0dcaf0;
+    height: 75px;
+    font-size: 25px;
+    color: black;
+    font-weight: bold;
+}
+
+.container-fluid a:hover{
+    border-bottom: 3px solid black;
+}
+
+.bi bi-bag{
+    color: black;
+    display: block;
+}
+
+.container-fluid img{
+    padding-top: 70px;
+    margin-left: 40px;
+}
+
+.container-fluid img:hover{
+    scale: 1.1;
+}
+
+.nav-2{
+    display: flex;
+    padding-top: 80px;
+    background-color:  #E4E0E0;
+    height: 130px;
+    list-style: none;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.list-link{
+    color: black;
+    text-decoration: none;
+}
+
+.list-item{
+    margin-left: 20px;
+}
+
+.list-item1{
+    margin-left: 300px;
+}
+
+.list-link:hover{
+    color: red
+}
+
+.main-1-1{
+    width: 55%;
+}
+
+.main-1-2{
+    width: 40%;
+}
+
+.main-1{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 5em;
+    margin-right: 5em;
+}
+
+.main-2{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 5em;
+    margin-right: 5em;
+    margin-top: 5em;
+}
+
+.img-1{
+    margin-top: 0em;
+}
+
+.main-1-1:hover{
+    color: red;
+}
+
+.card-body-1:hover{
+    color: red;
+}
+
+.lacku:hover{
+    color: red;
+}
+
+.card-text-1{
+    font-size: 55px;
+}
+
+.card-img-top-1{
+    height: 50px;
+}
+
+.img-1:hover{
+    transform: scale(1.1);
+    transition: transform .2s;
+}
+
+.lacku img:hover{
+    transform: scale(1.1);
+    transition: transform .2s;
+}
+
+.main-1-2 img:hover{
+    transform: scale(1.1);
+    transition: transform .2s;
+}
+
+.boki:hover{
+    color: red;
+}
